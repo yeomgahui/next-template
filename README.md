@@ -1,6 +1,6 @@
-# Next.js 템플릿 과제 프로젝트
+# Next.js 템플릿
 
-이 프로젝트는 Next.js를 기반으로 한 과제 템플릿입니다. 프로젝트는 TypeScript, Tailwind CSS, Vitest, Storybook 등 최신 웹 개발 도구들을 사용하여 구성되었습니다.
+이 프로젝트는 Next.js를 기반으로 한 템플릿입니다. 프로젝트는 TypeScript, Tailwind CSS, Vitest, Storybook 등 최신 웹 개발 도구들을 사용하여 구성되었습니다.
 
 ## 목적
 
