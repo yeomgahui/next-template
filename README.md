@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js 템플릿 과제 프로젝트
 
-## Getting Started
+이 프로젝트는 Next.js를 기반으로 한 과제 템플릿입니다. 프로젝트는 TypeScript, Tailwind CSS, Vitest, Storybook 등 최신 웹 개발 도구들을 사용하여 구성되었습니다.
 
-First, run the development server:
+## 목적
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+이 프로젝트의 목적은 과제 전형 제출을 위한 템플릿 제공입니다. 프로젝트를 클론하고 필요한 기능을 추가하거나 수정하여 제출할 수 있습니다.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 목차
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [프로젝트 개요](#프로젝트-개요)
+- [설치 및 실행 방법](#설치-및-실행-방법)
+- [사용된 기술](#사용된-기술)
+- [스크립트 설명](#스크립트-설명)
+- [테스트 방법](#테스트-방법)
+- [기여 가이드](#기여-가이드)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 프로젝트 개요
 
-## Learn More
+이 프로젝트는 Next.js로 구축된 웹 애플리케이션 템플릿입니다. 과제 전형에 필요한 기본적인 개발 환경이 설정되어 있어, 빠르게 기능을 추가하거나 수정하여 과제를 완성할 수 있습니다.
 
-To learn more about Next.js, take a look at the following resources:
+## 설치 및 실행 방법
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 사전 요구 사항
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Node.js 18.x 이상
+- npm
